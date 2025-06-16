@@ -3,7 +3,7 @@
 ---
 
 
-## 🔁 Q1: RNN Text Generation with LSTM
+## Q1: RNN Text Generation with LSTM
 
 ### Description
 
@@ -26,13 +26,13 @@ Temperature controls the creativity of the generated text:
 
 ---
 
-## 🧹Q2: NLP Preprocessing Pipeline
+## Q2: NLP Preprocessing Pipeline
 
 ###  Description
 
 Basic NLP preprocessing including tokenization, stopword removal, and stemming.
 
-### 🔧Tools
+### Tools
 
 * `nltk.tokenize.word_tokenize`
 * `nltk.corpus.stopwords`
